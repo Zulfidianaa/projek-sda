@@ -1,0 +1,30 @@
+body {
+    background: #d4f3ef !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    background-color: black;
+}
+
+.card-header-bg {
+    background-color: black;
+}
+
+.card-body-bg {
+    background-color: #abf0e9;
+}
+
+.form-control,
+.input-group-text {
+    border-radius: 50px !important;
+}
+
+.input-group-text {
+    background: rgb(255, 255, 255);
+}
+
+.thead-color {
+    background-color: black;
+    color: white;
+}
